@@ -14,6 +14,8 @@
 		57EBA12E245A3FE300455059 /* Lottery.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 57EBA12C245A3FE300455059 /* Lottery.xcdatamodeld */; };
 		57EBA130245A3FE400455059 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57EBA12F245A3FE400455059 /* Assets.xcassets */; };
 		57EBA133245A3FE400455059 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57EBA131245A3FE400455059 /* LaunchScreen.storyboard */; };
+		57EBA13B245A4CD100455059 /* GameType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57EBA13A245A4CD100455059 /* GameType.swift */; };
+		57EBA13E245A4D1500455059 /* InfixOperator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57EBA13D245A4D1500455059 /* InfixOperator.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		57EBA12F245A3FE400455059 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57EBA132245A3FE400455059 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57EBA134245A3FE400455059 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57EBA13A245A4CD100455059 /* GameType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameType.swift; sourceTree = "<group>"; };
+		57EBA13D245A4D1500455059 /* InfixOperator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfixOperator.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +70,8 @@
 				57EBA131245A3FE400455059 /* LaunchScreen.storyboard */,
 				57EBA134245A3FE400455059 /* Info.plist */,
 				57EBA12C245A3FE300455059 /* Lottery.xcdatamodeld */,
+				57EBA13A245A4CD100455059 /* GameType.swift */,
+				57EBA13D245A4D1500455059 /* InfixOperator.swift */,
 			);
 			path = Lottery;
 			sourceTree = "<group>";
@@ -144,6 +150,8 @@
 				57EBA128245A3FE300455059 /* ViewController.swift in Sources */,
 				57EBA124245A3FE300455059 /* AppDelegate.swift in Sources */,
 				57EBA126245A3FE300455059 /* SceneDelegate.swift in Sources */,
+				57EBA13B245A4CD100455059 /* GameType.swift in Sources */,
+				57EBA13E245A4D1500455059 /* InfixOperator.swift in Sources */,
 				57EBA12E245A3FE300455059 /* Lottery.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
